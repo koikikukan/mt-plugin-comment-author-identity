@@ -1,0 +1,20 @@
+# CommentAuthorIdentity
+#
+# Release 0.01 (Jan 07, 2011)
+#
+# Copyright (c) 2004-2011 Yujiro Araki
+
+id: CommentAuthorIdentity
+name: CommentAuthorIdentity
+author_link: http://www.koikikukan.com/
+author_name: Yujiro Araki
+version: 0.01
+plugin_link: http://www.koikikukan.com/archives/2010/01/xx-000000.php
+doc_link: http://www.koikikukan.com/archives/2010/01/xx-000000.php
+description: <__trans phrase="Add alt ant title modifier at CommentAuthorIdentity tag.">
+l10n_lexicon:
+    ja:
+        Add alt ant title modifier at CommentAuthorIdentity tag.: MTCommentAuthorIdentityタグにaltモディファイアとtitleモディファイアを追加します。
+tags:
+    function:
+        CommentAuthorIdentity: $CommentAuthorIdentity::CommentAuthorIdentity::Comment::_hdlr_comment_author_identity
